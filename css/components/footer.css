@@ -1,0 +1,22 @@
+.footer {
+  justify-content: center;
+  background-color: #AB967C;
+  height: 30vh;
+  text-align: center;
+}
+
+.footer h4 {
+  margin: 0;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.socials i {
+  font-size: 4em;
+  color: white;
+  padding: 10px 10px;
+}
